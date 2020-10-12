@@ -1,0 +1,17 @@
+.product__item{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    background-color: tomato;
+    padding: 50px;
+    margin: 50px auto;
+    color: white;
+    border-radius: 5px 25px;
+}
+.productItem__img{
+    height: 400px!important;
+    width: 400px!important;
+}
+.product__details{
+    padding-left: 50px;
+}
